@@ -1,0 +1,16 @@
+{
+    "name": "jerryaugusto/alura-searcher",
+    "description": "Project that searches for courses available on the Alura website.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jerry Augusto",
+            "email": "jerryaugusto@beinsight.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "symfony/dom-crawler": "^5.2",
+        "symfony/css-selector": "^5.2"
+    }
+}
